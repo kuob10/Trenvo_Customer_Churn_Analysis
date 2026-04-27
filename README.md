@@ -10,7 +10,7 @@ Identify the primary driver of churn and recommend solutions to improve retentio
 ---
 
 ## 📌 Executive Summary
-
+![Dashboard Screenshot](images/image 1.jpg)
 **Key Insight**  
 Churn is driven by **low user engagement**, not acquisition channel — despite similar LTV across channels.
 
