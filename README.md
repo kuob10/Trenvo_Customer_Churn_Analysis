@@ -46,7 +46,7 @@ Churn is driven by **low user engagement**, not acquisition channel — despite 
 - Paid and referral channels show slightly higher churn among active users (~1.4%)  
 - Suggests **unmet expectations or product gaps**
 - 
-![images alt](images/image_3.jpg)
+![images alt](images/image_4.jpg)
 ### Critical Event (June 2024)
 - Sharp spike in churn compared to steady growth in June 2023  
 - Likely caused by:
