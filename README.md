@@ -25,6 +25,8 @@ Churn is driven by **low user engagement**, not acquisition channel — despite 
 - Customer Retention  
 - User Engagement  
 
+![images alt](images/image_2.jpg)
+
 ### Root Cause
 - **62–68% of users were inactive** prior to cancellation  
 
@@ -35,7 +37,7 @@ Churn is driven by **low user engagement**, not acquisition channel — despite 
 ---
 
 ## 🔍 Deep Dive
-
+![images alt](images/image_3.jpg)
 ### Key Findings
 - Most churned users had **0–1 activities** in the 30 days before canceling  
 - Pattern is **consistent across all acquisition channels**
@@ -43,7 +45,8 @@ Churn is driven by **low user engagement**, not acquisition channel — despite 
 ### Additional Risk
 - Paid and referral channels show slightly higher churn among active users (~1.4%)  
 - Suggests **unmet expectations or product gaps**
-
+- 
+![images alt](images/image_3.jpg)
 ### Critical Event (June 2024)
 - Sharp spike in churn compared to steady growth in June 2023  
 - Likely caused by:
