@@ -1,4 +1,4 @@
-# 📊 Trenvo Churn Analysis
+# Trenvo Churn Analysis
 
 ## Overview
 Trenvo is a subscription-based tech company.  
@@ -9,7 +9,7 @@ Identify the primary driver of churn and recommend solutions to improve retentio
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 ![images alt](images/image_1.jpg)
 
 **Key Insight**  
@@ -36,7 +36,7 @@ Churn is driven by **low user engagement**, not acquisition channel — despite 
 
 ---
 
-## 🔍 Deep Dive
+## Deep Dive
 ![images alt](images/image_3.jpg)
 ### Key Findings
 - Most churned users had **0–1 activities** in the 30 days before canceling  
@@ -56,7 +56,7 @@ Churn is driven by **low user engagement**, not acquisition channel — despite 
 
 ---
 
-## 🚨 Recommendations
+## Recommendations
 
 ### 1. Early User Activation
 **Problem:** Users drop off before experiencing product value  
